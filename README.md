@@ -34,6 +34,8 @@ If the input contains coordinates that form a recognizable pattern, the script p
 ```
 The exact output depends on the input data provided.
 
+## For the given data the output will look like this:
+<img src="https://github.com/roshaanmehar/Secret-Message-Decoder/blob/main/Screenshot%202025-02-08%20232536.png" width="500">
 ## Usage
 To run the script, simply execute it with Python:
 ```bash
