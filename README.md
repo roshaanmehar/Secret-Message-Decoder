@@ -2,6 +2,18 @@
 
 This project is a fun and creative solution to a code puzzle where the goal is to decode a hidden message from a set of grid-based coordinates and character data. The script reads input data containing coordinates and characters, builds a grid from this information, and reveals the secret message by aligning the characters according to their specified positions.
 
+
+## Table of Contents
+- [How It Works](#how-it-works)
+- [Usage](#usage)
+- [Changing the Input Data](#changing-the-input-data)
+- [Project Files](#project-files)
+- [Fun Tips](#fun-tips)
+- [Motivation](#motivation)
+- [Contribution](#contribution)
+- [License](#license)
+
+ 
 ## How It Works
 The code performs the following steps:
 1. **Data Parsing:**
@@ -43,7 +55,7 @@ python decode_message.py
 ```
 
 ### Changing the Input Data
-Replace the `data` variable in the script with your own set of coordinate-character data to decode other messages.
+Replace the `data` variable in the script with your own set of coordinate-character data to decode other messages. You can also use AI to generate sample data.
 
 ## Project Files
 - **decode_secret_message.py:** The main script containing the logic for decoding the secret message.
